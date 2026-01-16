@@ -8,7 +8,7 @@ Getting Started
 To get started with the project, follow the steps below:
 
 Clone the repository:
-git clone https://github.com/shaadclt/Customer-Segmentation-KMeansClustering.git
+git clone https://github.com/fartaletejal-cloud/Customer-Segmentation-using-K-means-Clustering.git
 Change into the project directory:
 cd Customer-Segmentation-KMeansClustering
 Install the required dependencies:
@@ -37,3 +37,4 @@ Identifying distinct customer segments based on similarities or patterns in the 
 Understanding the characteristics, preferences, or behaviors that define each customer segment.
 Tailoring marketing strategies, product offerings, or customer experiences to target specific customer segments effectively.
 The insights gained from this project can help businesses optimize their marketing efforts, personalize customer experiences, and improve customer satisfaction.
+
